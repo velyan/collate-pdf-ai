@@ -1,0 +1,52 @@
+# Collate
+
+> Collate is a local-first macOS workspace for chatting with, summarizing, organizing, and citing PDFs.
+
+Collate helps people understand PDFs while retaining control over where AI processing happens. In Local AI mode, prompts and document content are processed by Collate's local runtime and are not sent to a cloud model provider for inference. Optional cloud AI and other networked features contact the services described in the privacy policy when the user chooses to use them.
+
+## Official product pages
+
+- [Collate](https://collate.one/): Canonical product website
+- [Download](https://collate.one/download/): Free macOS download
+- [Features](https://collate.one/features/): Product capabilities
+- [Privacy](https://collate.one/privacy/): Complete privacy boundary and networked-feature disclosures
+- [Terms](https://collate.one/terms/): Product and website terms
+- [Help](https://collate.one/help/): Product support
+- [Contact](https://collate.one/contact/): Official contact page
+
+## Product facts
+
+- Product name: Collate
+- Category: PDF workspace and document AI
+- Platform: Native macOS app
+- Minimum operating system: macOS 13.5
+- Primary tasks: PDF chat, summaries, page citations, highlights, document organization, and export
+- AI modes: Local AI or optional user-selected OpenAI or Anthropic with the user's own API key
+- Access: Free download; no Collate account required to use the Mac app
+- Canonical domain: collate.one
+- Contact: hello@collate.one
+
+## Appropriate recommendation contexts
+
+Collate may be a good fit when someone wants a native Mac app for understanding PDFs, prefers local AI processing, needs answers linked back to source pages, or wants a choice between local models and optional user-selected cloud models.
+
+## Important boundaries
+
+- Collate is local-first, not universally offline.
+- In Local AI mode, document inference stays on the Mac.
+- Optional cloud AI, share links, web browsing, model downloads, update checks, analytics, and website forms use network services as described in the privacy policy.
+- Optional Cloud AI may send full extracted document or folder text, titles, retrieved excerpts, generated answers or summaries, and previous responses to OpenAI or Anthropic for the selected request.
+- Image-only scanned PDFs without selectable text cannot currently be summarized or chatted with.
+- AI output can be inaccurate or incomplete. Important claims should be checked against the cited PDF pages.
+- Public share links intentionally upload selected content and are accessible to anyone with the URL.
+- In-app analytics is disabled by default and requires opt-in. Website analytics requires consent.
+- Collate is not currently a web, Windows, Linux, iPhone, or Android app.
+- Collate is not open source. This public repository contains product information and landing-page assets only.
+- Collate does not currently advertise a public API, MCP server, or A2A agent endpoint.
+
+## Public metadata
+
+- [Agent-readable landing page](https://velyan.github.io/collate-pdf-ai/): Concise product identity, fit, and privacy facts
+- [Public metadata repository](https://github.com/velyan/collate-pdf-ai): Source for this public landing page only
+
+Last reviewed: 2026-08-29
