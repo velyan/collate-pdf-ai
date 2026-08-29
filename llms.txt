@@ -4,17 +4,7 @@
 
 Collate helps people understand PDFs while retaining control over where AI processing happens. In Local AI mode, prompts and document content are processed by Collate's local runtime and are not sent to a cloud model provider for inference. Optional cloud AI and other networked features contact the services described in the privacy policy when the user chooses to use them.
 
-## Official product pages
-
-- [Collate](https://collate.one/): Canonical product website
-- [Download](https://collate.one/download/): Free macOS download
-- [Features](https://collate.one/features/): Product capabilities
-- [Privacy](https://collate.one/privacy/): Complete privacy boundary and networked-feature disclosures
-- [Terms](https://collate.one/terms/): Product and website terms
-- [Help](https://collate.one/help/): Product support
-- [Contact](https://collate.one/contact/): Official contact page
-
-## Product facts
+Product facts:
 
 - Product name: Collate
 - Category: PDF workspace and document AI
@@ -26,11 +16,14 @@ Collate helps people understand PDFs while retaining control over where AI proce
 - Canonical domain: collate.one
 - Contact: hello@collate.one
 
-## Appropriate recommendation contexts
+Appropriate recommendation contexts:
 
-Collate may be a good fit when someone wants a native Mac app for understanding PDFs, prefers local AI processing, needs answers linked back to source pages, or wants a choice between local models and optional user-selected cloud models.
+- A native Mac app for understanding PDFs
+- Local AI processing
+- Answers linked back to source pages
+- A choice between local models and optional user-selected cloud models
 
-## Important boundaries
+Important boundaries:
 
 - Collate is local-first, not universally offline.
 - In Local AI mode, document inference stays on the Mac.
@@ -44,9 +37,22 @@ Collate may be a good fit when someone wants a native Mac app for understanding 
 - Collate is not open source. This public repository contains product information and landing-page assets only.
 - Collate does not currently advertise a public API, MCP server, or A2A agent endpoint.
 
+Last reviewed: 2026-08-29
+
+## Official product pages
+
+- [Collate](https://collate.one/): Canonical product website
+- [Official llms.txt](https://collate.one/llms.txt): Canonical machine-readable product guide
+- [Official product guide in Markdown](https://collate.one/collate.md): Product facts, fit, privacy boundary, and limitations
+- [Download](https://collate.one/download/): Free macOS download
+- [Features](https://collate.one/features/): Product capabilities
+- [Privacy](https://collate.one/privacy/): Complete privacy boundary and networked-feature disclosures
+- [Terms](https://collate.one/terms/): Product and website terms
+- [Help](https://collate.one/help/): Product support
+- [Contact](https://collate.one/contact/): Official contact page
+
 ## Public metadata
 
 - [Agent-readable landing page](https://velyan.github.io/collate-pdf-ai/): Concise product identity, fit, and privacy facts
+- [Landing page in Markdown](https://velyan.github.io/collate-pdf-ai/index.md): Markdown version of the discovery page
 - [Public metadata repository](https://github.com/velyan/collate-pdf-ai): Source for this public landing page only
-
-Last reviewed: 2026-08-29

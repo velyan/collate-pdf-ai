@@ -12,7 +12,10 @@ Collate is a native macOS workspace for chatting with, summarizing, organizing, 
 - [Terms](https://collate.one/terms/)
 - [Help](https://collate.one/help/)
 - [Contact](https://collate.one/contact/)
+- [Official machine-readable product guide](https://collate.one/llms.txt)
+- [Official product guide in Markdown](https://collate.one/collate.md)
 - [Machine-readable product guide](https://velyan.github.io/collate-pdf-ai/llms.txt)
+- [This landing page in Markdown](https://velyan.github.io/collate-pdf-ai/index.md)
 
 ## Product facts
 
